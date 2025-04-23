@@ -1,0 +1,101 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+body {
+    font-family: sans-serif;
+}
+body h1 , span {
+  font-family: "Oswald", sans-serif;
+  font-weight: 500;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.Update4{
+    display:flex;
+}
+.move{
+    left:60px;
+    
+}
+
+.Photo1{
+    width: 500px;
+    height: auto;
+    
+}
+.code1{
+    width: 600px;
+    height: auto;
+    
+}
+.code2{
+    width: 800px;
+    height: auto;
+}
+.code3{
+    width: 800px;
+    height: auto;
+}
+.bar1{
+    width:600px;
+    height:auto;
+}
+.bars2{
+    width:800px;
+    height:auto;
+}
+.sider{
+    display: flex;
+
+}
+
+
+
+  .image-container1 {
+    position: relative;
+    top:0px;
+    left:0px;
+    
+    
+
+}
+
+
+.image-container2 {
+    position: relative;
+    left:100px;
+    top:0px;
+    
+    
+}
+.siders{
+    display: flex;
+
+}
+
+
+
+  .image-container3 {
+    position: relative;
+    top:0px;
+    left:0px;
+    
+    
+
+}
+
+
+.image-container4 {
+    position: relative;
+    left:100px;
+    top:0px;
+    padding-bottom:100px;
+    
+}
+
+
